@@ -3,5 +3,5 @@ module 2 solution
 link-- https://1gauravrathore.github.io/Solutions/module2-solution/
 
 module 3 solution
-https://1gauravrathore.github.io/Solutions/module3-solution/
+link-- https://1gauravrathore.github.io/Solutions/module3-solution/
 
