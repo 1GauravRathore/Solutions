@@ -8,3 +8,6 @@ link-- https://1gauravrathore.github.io/Solutions/module3-solution/
 module 4 solution
 link-- https://1gauravrathore.github.io/Solutions/module4-solution/
 
+module 5 solution
+link-- https://1gauravrathore.github.io/Solutions/module5-solution/
+
